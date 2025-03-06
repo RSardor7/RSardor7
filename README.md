@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Java Projects
 -  anyone has willing DM me
 - 📫 How to reach me via WhatsApp +998940787982
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+- 😄 Pronouns: He/his
+  
 
 <!---
 RSardor7/RSardor7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
